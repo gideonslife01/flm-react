@@ -1,0 +1,31 @@
+.container {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.nav {
+    margin-bottom: 30px;
+}
+
+.nav button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #646cff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.nav button:hover {
+    background: #4c53d1;
+}
+
+.page {
+    padding: 40px;
+    border-radius: 12px;
+    background: #f5f5f5;
+}
